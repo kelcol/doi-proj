@@ -5,7 +5,6 @@ function(e) {
   let output = doiPrefix;
   document.getElementById('output').innerHTML = output;
   console.log(doiPrefix);
-  console.log(doi2pub('10.2488'));
 });
 
 
